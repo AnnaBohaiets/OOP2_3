@@ -1,0 +1,8 @@
+﻿  pch.cpp
+  OOPUnitTest2_3.cpp
+C:\Users\ТЕХНОРАЙ\Desktop\ПОЛІТЕХ\OOП\OOPLab2_3\OOPLab2_3\Money.cpp(80,33): warning C4244: 'argument': conversion from 'double' to 'char', possible loss of data
+C:\Users\ТЕХНОРАЙ\Desktop\ПОЛІТЕХ\OOП\OOPLab2_3\OOPLab2_3\Money.cpp(80,25): warning C4244: 'argument': conversion from 'double' to 'long', possible loss of data
+C:\Users\ТЕХНОРАЙ\Desktop\ПОЛІТЕХ\OOП\OOPLab2_3\OOPLab2_3\Money.cpp(94,32): warning C4244: 'argument': conversion from 'double' to 'char', possible loss of data
+C:\Users\ТЕХНОРАЙ\Desktop\ПОЛІТЕХ\OOП\OOPLab2_3\OOPLab2_3\Money.cpp(94,22): warning C4244: 'argument': conversion from 'double' to 'long', possible loss of data
+     Creating library C:\Users\ТЕХНОРАЙ\Desktop\ПОЛІТЕХ\OOП\OOPLab2_3\x64\Debug\OOPUnitTest2_3.lib and object C:\Users\ТЕХНОРАЙ\Desktop\ПОЛІТЕХ\OOП\OOPLab2_3\x64\Debug\OOPUnitTest2_3.exp
+  OOPUnitTest2_3.vcxproj -> C:\Users\ТЕХНОРАЙ\Desktop\ПОЛІТЕХ\OOП\OOPLab2_3\x64\Debug\OOPUnitTest2_3.dll

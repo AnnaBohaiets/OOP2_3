@@ -1,0 +1,9 @@
+﻿  Money.cpp
+C:\Users\ТЕХНОРАЙ\Desktop\ПОЛІТЕХ\OOП\OOPLab2_3\OOPLab2_3\Money.cpp(89,33): warning C4244: 'argument': conversion from 'double' to 'char', possible loss of data
+C:\Users\ТЕХНОРАЙ\Desktop\ПОЛІТЕХ\OOП\OOPLab2_3\OOPLab2_3\Money.cpp(89,25): warning C4244: 'argument': conversion from 'double' to 'long', possible loss of data
+C:\Users\ТЕХНОРАЙ\Desktop\ПОЛІТЕХ\OOП\OOPLab2_3\OOPLab2_3\Money.cpp(103,32): warning C4244: 'argument': conversion from 'double' to 'char', possible loss of data
+C:\Users\ТЕХНОРАЙ\Desktop\ПОЛІТЕХ\OOП\OOPLab2_3\OOPLab2_3\Money.cpp(103,22): warning C4244: 'argument': conversion from 'double' to 'long', possible loss of data
+  main.cpp
+  Generating Code...
+  LINK : C:\Users\ТЕХНОРАЙ\Desktop\ПОЛІТЕХ\OOП\OOPLab2_3\x64\Debug\OOPLab2_3.exe not found or not built by the last incremental link; performing full link
+  OOPLab2_3.vcxproj -> C:\Users\ТЕХНОРАЙ\Desktop\ПОЛІТЕХ\OOП\OOPLab2_3\x64\Debug\OOPLab2_3.exe
